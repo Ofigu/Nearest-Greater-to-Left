@@ -1,7 +1,3 @@
-''' 
-@Author: 322428177 May gurevich
-@Author: 207918731 Ofir Almog
-'''
 class Node:
     def __init__(self, data):
         self.data = data
